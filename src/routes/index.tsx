@@ -8,7 +8,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const WHATSAPP_NUMBER = "5547999999999";
+const WHATSAPP_NUMBER = "5547996053320";
 const WHATSAPP_BASE_MSG = "Olá! Vi a apresentação do apartamento Vista Mare, no bairro Fazenda, e gostaria de receber mais informações.";
 
 function buildWhatsAppUrl(msg: string) {
